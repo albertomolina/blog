@@ -22,4 +22,4 @@ principal limitación la falta de interacción con los visitantes,
 principalmente que ya que no se pueden poner comentarios.
 
 Todo el contenido de este blog se gestiona a través de un repositorio
-git https://github.com/albertomolina/blog
+git <https://github.com/albertomolina/blog>
